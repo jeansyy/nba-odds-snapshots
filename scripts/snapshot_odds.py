@@ -20,7 +20,7 @@ def main(out_dir: str):
     params = {
         "apiKey": api_key,
         "regions": "au",
-        "markets": "h2h",
+                "markets": "h2h,spreads",
         "oddsFormat": "decimal",
     }
 
