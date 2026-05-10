@@ -1,0 +1,129 @@
+event_id,sport_key,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,New York Knicks,1.88,-38.0,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,Philadelphia 76ers,1.82,38.0,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,New York Knicks,1.9,-38.0,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,Philadelphia 76ers,1.84,38.0,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,New York Knicks,1.9,-36.5,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,Philadelphia 76ers,1.83,36.5,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:26:36Z,h2h_lay,New York Knicks,1.01,,20260510_214005
+878243c543236baba132ad43ae333aae,basketball_nba,Philadelphia 76ers,New York Knicks,2026-05-10T19:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:26:36Z,h2h_lay,Philadelphia 76ers,1000.0,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,neds,Neds,2026-05-10T21:39:38Z,h2h,Minnesota Timberwolves,2.6,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,neds,Neds,2026-05-10T21:39:38Z,h2h,San Antonio Spurs,1.5,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.75,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.48,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,spreads,Minnesota Timberwolves,1.9,5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,spreads,San Antonio Spurs,1.9,-5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,ladbrokes_au,Ladbrokes,2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.6,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,ladbrokes_au,Ladbrokes,2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.5,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,h2h,Minnesota Timberwolves,2.65,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,h2h,San Antonio Spurs,1.5,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,Minnesota Timberwolves,1.85,5.0,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,San Antonio Spurs,1.93,-5.0,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.65,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.5,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,Minnesota Timberwolves,1.88,5.0,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,San Antonio Spurs,1.95,-5.0,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.6,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.53,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,Minnesota Timberwolves,1.9,5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,San Antonio Spurs,1.9,-5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betr_au,Betr,2026-05-10T21:39:38Z,h2h,Minnesota Timberwolves,2.7,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betr_au,Betr,2026-05-10T21:39:38Z,h2h,San Antonio Spurs,1.49,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betright,Bet Right,2026-05-10T21:39:38Z,h2h,Minnesota Timberwolves,2.55,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betright,Bet Right,2026-05-10T21:39:38Z,h2h,San Antonio Spurs,1.52,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tab,TAB,2026-05-10T21:39:53Z,h2h,Minnesota Timberwolves,2.6,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tab,TAB,2026-05-10T21:39:53Z,h2h,San Antonio Spurs,1.52,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tab,TAB,2026-05-10T21:39:53Z,spreads,Minnesota Timberwolves,1.9,5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,tab,TAB,2026-05-10T21:39:53Z,spreads,San Antonio Spurs,1.9,-5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.65,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.5,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,spreads,Minnesota Timberwolves,1.87,5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,spreads,San Antonio Spurs,1.95,-5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.76,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.56,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h_lay,Minnesota Timberwolves,2.8,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h_lay,San Antonio Spurs,1.57,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,h2h,Minnesota Timberwolves,2.7,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,h2h,San Antonio Spurs,1.46,,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,spreads,Minnesota Timberwolves,1.88,5.5,20260510_214005
+77e60e525f42e8337027f550bcd2f1cc,basketball_nba,Minnesota Timberwolves,San Antonio Spurs,2026-05-10T23:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,spreads,San Antonio Spurs,1.92,-5.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.63,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.35,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,Cleveland Cavaliers,1.9,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,Detroit Pistons,1.9,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.62,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.36,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,spreads,Cleveland Cavaliers,1.9,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,spreads,Detroit Pistons,1.9,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betr_au,Betr,2026-05-10T21:39:38Z,h2h,Cleveland Cavaliers,1.6,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betr_au,Betr,2026-05-10T21:39:38Z,h2h,Detroit Pistons,2.4,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betright,Bet Right,2026-05-10T21:39:38Z,h2h,Cleveland Cavaliers,1.62,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betright,Bet Right,2026-05-10T21:39:38Z,h2h,Detroit Pistons,2.3,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tab,TAB,2026-05-10T21:39:53Z,h2h,Cleveland Cavaliers,1.62,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tab,TAB,2026-05-10T21:39:53Z,h2h,Detroit Pistons,2.35,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tab,TAB,2026-05-10T21:39:53Z,spreads,Cleveland Cavaliers,1.9,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tab,TAB,2026-05-10T21:39:53Z,spreads,Detroit Pistons,1.9,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,h2h,Cleveland Cavaliers,1.61,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,h2h,Detroit Pistons,2.33,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,Cleveland Cavaliers,1.88,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,Detroit Pistons,1.91,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,unibet,Unibet,2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.61,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,unibet,Unibet,2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.33,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,Cleveland Cavaliers,1.9,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,Detroit Pistons,1.92,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,playup,PlayUp,2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.63,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,playup,PlayUp,2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.3,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,playup,PlayUp,2026-05-10T21:39:52Z,spreads,Cleveland Cavaliers,1.88,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,playup,PlayUp,2026-05-10T21:39:52Z,spreads,Detroit Pistons,1.91,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,neds,Neds,2026-05-10T21:39:38Z,h2h,Cleveland Cavaliers,1.6,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,neds,Neds,2026-05-10T21:39:38Z,h2h,Detroit Pistons,2.35,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,ladbrokes_au,Ladbrokes,2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.6,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,ladbrokes_au,Ladbrokes,2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.35,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.58,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.4,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,spreads,Cleveland Cavaliers,1.9,-3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,spreads,Detroit Pistons,1.92,3.5,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h,Cleveland Cavaliers,1.67,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h,Detroit Pistons,2.44,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h_lay,Cleveland Cavaliers,1.69,,20260510_214005
+b537062ee0483d20ae932052628b663d,basketball_nba,Cleveland Cavaliers,Detroit Pistons,2026-05-12T00:00:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h_lay,Detroit Pistons,2.5,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,4.75,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.2,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,Los Angeles Lakers,1.9,10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,pointsbetau,PointsBet (AU),2026-05-10T21:39:52Z,spreads,Oklahoma City Thunder,1.9,-10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,5.0,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.19,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,spreads,Los Angeles Lakers,1.95,10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,sportsbet,SportsBet,2026-05-10T21:39:52Z,spreads,Oklahoma City Thunder,1.85,-10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,h2h,Los Angeles Lakers,4.9,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,h2h,Oklahoma City Thunder,1.19,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,Los Angeles Lakers,1.91,10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tabtouch,TABtouch,2026-05-10T21:39:38Z,spreads,Oklahoma City Thunder,1.88,-10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,4.9,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.19,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,Los Angeles Lakers,1.92,10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,unibet,Unibet,2026-05-10T21:39:52Z,spreads,Oklahoma City Thunder,1.9,-10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tab,TAB,2026-05-10T21:39:53Z,h2h,Los Angeles Lakers,4.8,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tab,TAB,2026-05-10T21:39:53Z,h2h,Oklahoma City Thunder,1.2,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tab,TAB,2026-05-10T21:39:53Z,spreads,Los Angeles Lakers,1.85,11.0,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,tab,TAB,2026-05-10T21:39:53Z,spreads,Oklahoma City Thunder,1.95,-11.0,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betr_au,Betr,2026-05-10T21:39:38Z,h2h,Los Angeles Lakers,4.8,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betr_au,Betr,2026-05-10T21:39:38Z,h2h,Oklahoma City Thunder,1.2,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betright,Bet Right,2026-05-10T21:39:38Z,h2h,Los Angeles Lakers,4.6,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betright,Bet Right,2026-05-10T21:39:38Z,h2h,Oklahoma City Thunder,1.2,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,4.6,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.2,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,spreads,Los Angeles Lakers,1.92,10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,playup,PlayUp,2026-05-10T21:39:52Z,spreads,Oklahoma City Thunder,1.87,-10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,neds,Neds,2026-05-10T21:39:38Z,h2h,Los Angeles Lakers,4.8,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,neds,Neds,2026-05-10T21:39:38Z,h2h,Oklahoma City Thunder,1.19,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,ladbrokes_au,Ladbrokes,2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,4.8,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,ladbrokes_au,Ladbrokes,2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.19,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,5.4,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.21,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h_lay,Los Angeles Lakers,5.6,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,betfair_ex_au,Betfair,2026-05-10T21:39:52Z,h2h_lay,Oklahoma City Thunder,1.23,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,h2h,Los Angeles Lakers,5.25,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,h2h,Oklahoma City Thunder,1.15,,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,spreads,Los Angeles Lakers,1.95,10.5,20260510_214005
+0db68bfa022e22873f48b8539addd5ae,basketball_nba,Los Angeles Lakers,Oklahoma City Thunder,2026-05-12T02:40:00Z,dabble_au,Dabble AU,2026-05-10T21:39:52Z,spreads,Oklahoma City Thunder,1.85,-10.5,20260510_214005
