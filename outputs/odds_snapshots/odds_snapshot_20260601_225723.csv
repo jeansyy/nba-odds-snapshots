@@ -1,0 +1,41 @@
+event_id,sport_key,home_team,away_team,commence_time,bookmaker,bookmaker_title,last_update,market,outcome_name,price,point,snapshot_utc
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,sportsbet,SportsBet,2026-06-01T22:56:52Z,h2h,New York Knicks,2.64,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,sportsbet,SportsBet,2026-06-01T22:56:52Z,h2h,San Antonio Spurs,1.51,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,sportsbet,SportsBet,2026-06-01T22:56:52Z,spreads,New York Knicks,1.84,5.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,sportsbet,SportsBet,2026-06-01T22:56:52Z,spreads,San Antonio Spurs,1.96,-5.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betfair_ex_au,Betfair,2026-06-01T22:56:53Z,h2h,New York Knicks,2.74,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betfair_ex_au,Betfair,2026-06-01T22:56:53Z,h2h,San Antonio Spurs,1.56,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betfair_ex_au,Betfair,2026-06-01T22:56:53Z,h2h_lay,New York Knicks,2.76,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betfair_ex_au,Betfair,2026-06-01T22:56:53Z,h2h_lay,San Antonio Spurs,1.57,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tabtouch,TABtouch,2026-06-01T22:56:33Z,h2h,New York Knicks,2.65,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tabtouch,TABtouch,2026-06-01T22:56:33Z,h2h,San Antonio Spurs,1.5,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tabtouch,TABtouch,2026-06-01T22:56:33Z,spreads,New York Knicks,1.88,5.0,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tabtouch,TABtouch,2026-06-01T22:56:33Z,spreads,San Antonio Spurs,1.92,-5.0,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,unibet,Unibet,2026-06-01T22:56:51Z,h2h,New York Knicks,2.65,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,unibet,Unibet,2026-06-01T22:56:51Z,h2h,San Antonio Spurs,1.5,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,unibet,Unibet,2026-06-01T22:56:51Z,spreads,New York Knicks,1.89,5.0,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,unibet,Unibet,2026-06-01T22:56:51Z,spreads,San Antonio Spurs,1.93,-5.0,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tab,TAB,2026-06-01T22:56:16Z,h2h,New York Knicks,2.6,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tab,TAB,2026-06-01T22:56:16Z,h2h,San Antonio Spurs,1.52,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tab,TAB,2026-06-01T22:56:16Z,spreads,New York Knicks,1.9,5.0,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,tab,TAB,2026-06-01T22:56:16Z,spreads,San Antonio Spurs,1.9,-5.0,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,playup,PlayUp,2026-06-01T22:57:11Z,h2h,New York Knicks,2.55,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,playup,PlayUp,2026-06-01T22:57:11Z,h2h,San Antonio Spurs,1.52,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,playup,PlayUp,2026-06-01T22:57:11Z,spreads,New York Knicks,1.92,4.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,playup,PlayUp,2026-06-01T22:57:11Z,spreads,San Antonio Spurs,1.87,-4.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,ladbrokes_au,Ladbrokes,2026-06-01T22:56:51Z,h2h,New York Knicks,2.4,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,ladbrokes_au,Ladbrokes,2026-06-01T22:56:51Z,h2h,San Antonio Spurs,1.58,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,neds,Neds,2026-06-01T22:57:12Z,h2h,New York Knicks,2.4,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,neds,Neds,2026-06-01T22:57:12Z,h2h,San Antonio Spurs,1.58,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,pointsbetau,PointsBet (AU),2026-06-01T22:56:51Z,h2h,New York Knicks,2.65,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,pointsbetau,PointsBet (AU),2026-06-01T22:56:51Z,h2h,San Antonio Spurs,1.5,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,pointsbetau,PointsBet (AU),2026-06-01T22:56:51Z,spreads,New York Knicks,1.87,5.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,pointsbetau,PointsBet (AU),2026-06-01T22:56:51Z,spreads,San Antonio Spurs,1.95,-5.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betr_au,Betr,2026-06-01T22:56:51Z,h2h,New York Knicks,2.65,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betr_au,Betr,2026-06-01T22:56:51Z,h2h,San Antonio Spurs,1.5,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betright,Bet Right,2026-06-01T22:56:13Z,h2h,New York Knicks,2.58,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,betright,Bet Right,2026-06-01T22:56:13Z,h2h,San Antonio Spurs,1.51,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,dabble_au,Dabble AU,2026-06-01T22:56:12Z,h2h,New York Knicks,2.55,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,dabble_au,Dabble AU,2026-06-01T22:56:12Z,h2h,San Antonio Spurs,1.52,,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,dabble_au,Dabble AU,2026-06-01T22:56:12Z,spreads,New York Knicks,1.92,4.5,20260601_225723
+1aae688472781f1a1aaf3efdb38e884b,basketball_nba,San Antonio Spurs,New York Knicks,2026-06-04T00:40:00Z,dabble_au,Dabble AU,2026-06-01T22:56:12Z,spreads,San Antonio Spurs,1.88,-4.5,20260601_225723
